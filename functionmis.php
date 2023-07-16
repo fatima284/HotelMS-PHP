@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: vishal
- * Date: 10/21/17
- * Time: 4:16 PM
- */
+
 include_once 'db.php';
 
 if (isset($_POST['login'])) {
